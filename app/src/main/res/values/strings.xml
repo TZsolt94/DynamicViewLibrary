@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DynamicViewExample</string>
+    <string name="start">Start</string>
+    <string name="shop">Shop</string>
+    <string name="bestmoments">Best Moments</string>
+    <string name="statistics">Statistics</string>
+    <string name="options">Options</string>
+    <string name="profile">Profile</string>
+    <string name="exit">Exit</string>
+    <string name="more">More</string>
+</resources>
