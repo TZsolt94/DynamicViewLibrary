@@ -8,4 +8,12 @@
     <string name="profile">Profile</string>
     <string name="exit">Exit</string>
     <string name="more">More</string>
+    <string name="profile2">Profile2</string>
+    <string name="options2">Options2</string>
+    <string name="statistics2">Statistics2</string>
+    <string name="bestmoments2">Best Moments2</string>
+    <string name="shop2">Shop2</string>
+    <string name="start2">Start2</string>
+    <string name="exit2">Exit2</string>
+    <string name="more2">More2</string>
 </resources>
